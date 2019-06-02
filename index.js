@@ -1,1 +1,1 @@
-console.log('hola mundo en webpack!');
+console.log('hola mundo en webpack desde el webpack.config.js ;)!');
